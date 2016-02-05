@@ -1,7 +1,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        //pruebas de entornos
         Agenda agenda = new Agenda(2);
         Persona persona1 = new Persona("Juan", "956125634");
         Persona persona2 = new Persona("Jose", "976453627");
